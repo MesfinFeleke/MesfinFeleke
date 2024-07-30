@@ -3,17 +3,16 @@
 <!--
 **MesfinFeleke/MesfinFeleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on : React and Next.js
+- 🌱 I’m currently learning : AWS
+- 👯 I’m looking to collaborate on : AI Projects
+- 🤔 I’m looking for help with: 
+- 💬 Ask me about : Blockchain 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
+
 # Mesfin Feleke
 
 ![Profile Picture](https://github.com/mesfinfeleke/mesfinfeleke/profile_picture.jpg)
@@ -54,19 +53,19 @@ Created a scalable online library system for book check in/out, catalog browsing
 
 ## Contact
 
-- **Email:** mesfin@example.com
+- **Email:** felekemd@gmail.com
 - **LinkedIn:** [Mesfin Feleke](https://www.linkedin.com/in/mesfinfeleke)
 
 ## Certifications
 
-- **Certified Java Developer** - Oracle
-- **AWS Certified Solutions Architect** - Amazon
+- **Certified Java Developer** - Oracle - In Progress
+- **AWS Certified Solutions Architect** - Amazon - In Progress
 
 ## Testimonials
 
-"Collaborating with Mesfin was a pleasure. His professionalism and dedication to delivering exceptional results were evident throughout our project." - Colleague
+"Collaborating with Mesfin was a pleasure. His professionalism and dedication to delivering exceptional results were evident throughout our project." - Rohan
 
 ---
 
-Feel free to customize and add any additional sections that you find relevant to your profile. This README layout will make your profile more engaging and professional.
+
 
