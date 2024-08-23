@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Passionate Full Stack Developer with over 5 years of experience in developing scalable web applications and systems.
+I thrive on solving complex problems and bringing innovative ideas to life through code. Proficient in Java, Spring, Hibernate, Angular, and other modern web technologies. 
+I am committed to continuous learning and staying at the forefront of technological advancements.
+
 - 🔭 I’m currently working on : React and Next.js
 - 🌱 I’m currently learning : AWS
 - 👯 I’m looking to collaborate on : AI Projects
