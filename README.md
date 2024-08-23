@@ -15,7 +15,6 @@ I am committed to continuous learning and staying at the forefront of technologi
 
 # Mesfin Feleke
 
-![Profile Picture](https://github.com/mesfinfeleke/mesfinfeleke/profile_picture.jpg)
 
 ## Introduction
 
