@@ -22,12 +22,12 @@ Hello! I'm Mesfin, a versatile application software developer with 5 years of in
 
 ## Skills
 
-- **Java** ![Java](https://img.shields.io/badge/-Java-orange) - 80%
+- **Java** ![Java](https://img.shields.io/badge/-Java-orange) - 90%
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) - 60%
 - **SQL** ![SQL](https://img.shields.io/badge/-SQL-blue) - 90%
-- **Git** ![Git](https://img.shields.io/badge/-Git-red) - 50%
-- **React** ![React](https://img.shields.io/badge/-React-blue)
-- **Node.js** ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- **Git** ![Git](https://img.shields.io/badge/-Git-red) - 80%
+- **React** ![React](https://img.shields.io/badge/-React-blue)- 50%
+- **Node.js** ![Node.js](https://img.shields.io/badge/-Node.js-green) -50%
 - **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
 - **Agile Methodologies** ![Agile](https://img.shields.io/badge/-Agile-blue)
 
