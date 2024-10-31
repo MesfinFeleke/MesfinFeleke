@@ -31,9 +31,6 @@ Hello! I'm Mesfin, a versatile application software developer with 5 years of in
 - **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
 - **Agile Methodologies** ![Agile](https://img.shields.io/badge/-Agile-blue)
 
-## GitHub Stats
-
-![Mesfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesfinfeleke&show_icons=true&theme=radical)
 
 ## Key Projects
 
