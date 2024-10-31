@@ -23,7 +23,7 @@ Hello! I'm Mesfin, a versatile application software developer with 5 years of in
 ## Skills
 
 - **Java** ![Java](https://img.shields.io/badge/-Java-orange) - 90%
-- **Java** ![Spring](https://img.shields.io/badge/-Spring-orange) - 90%
+- **Spring** ![Spring](https://img.shields.io/badge/-Spring-orange) - 90%
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) - 60%
 - **SQL** ![SQL](https://img.shields.io/badge/-SQL-blue) - 90%
 - **Git** ![Git](https://img.shields.io/badge/-Git-red) - 80%
