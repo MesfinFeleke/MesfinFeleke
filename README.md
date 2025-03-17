@@ -55,8 +55,8 @@ Created a scalable online library system for book check in/out, catalog browsing
 
 ## Certifications
 
-- **Certified Java Developer** - Oracle - In Progress
-- **AWS Certified Solutions Architect** - Amazon - In Progress
+- **AWS Cloud Practitioner certification
+
 
 ## Testimonials
 
